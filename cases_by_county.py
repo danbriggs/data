@@ -2,6 +2,7 @@ import csv
 import numpy as np
 import collections
 import os.path
+import matplotlib.pyplot as plt
 
 counties = []
 #some "counties" will be "statewide unallocated"
@@ -11,6 +12,10 @@ cases = [] #for number by county and date.
 pops = [] #population by county
 fips = [] #Federal Information Processing Standards
           #unique county identifiers
+
+num_decrease_to_exclude = 1 #If the total number of cases drops by at least this
+                            #from one day to the next in the last month,
+                            #exclude that county
 
 def get_data(filename, pop_filename):
     global counties, states, dates, cases, pops, fips
@@ -43,7 +48,7 @@ def bad_indices(arr):
     index_list = []
     numrows = np.shape(arr)[0]
     for i in range(numrows):
-        if np.count_nonzero(arr[i,-30:] < -2) > 0:
+        if np.count_nonzero(arr[i,-30:] < -(num_decrease_to_exclude - 1)) > 0:
             #If number of cases somehow dropped in past 20 days
             #This would likely be due to recategorization
             index_list.append(i)
@@ -64,8 +69,8 @@ if __name__=='__main__':
     bad_rows = bad_indices(new_cases)
 
     print("There were", len(bad_rows), "counties\n"+
-          "with at least one decline in total cases(!) of at least 3\n"+
-          "from one day to the next\n within the last 30 days.\n"+
+          "with at least one decline in total cases(!) of at least",num_decrease_to_exclude,
+          "\nfrom one day to the next\n within the last 30 days.\n"+
           "Removing them from the list.")
     
     old_counties = counties.copy()
@@ -111,6 +116,7 @@ if __name__=='__main__':
     if overflow>0:
         print("Not enough data to go",numdays,"days forward.")
         numdays = numdays - overflow
+        numdaysstring = str(numdays)
         print("Reducing number of days to",numdays)
     diff_index = date_index - 1
     week_before= new_cases[:, diff_index-numdays:diff_index]
@@ -146,6 +152,62 @@ if __name__=='__main__':
           "(with the highest increase in #new cases/day by pop. after",datestring,"):")
     print(collections.Counter(highest_decile_states))
 
+    first_digit_function = (lambda x:
+                            np.floor_divide(x,10**np.floor(np.log10(x+.11))))
+    first_digits_week_before= (first_digit_function)(week_before[week_before>=1])
+    first_digits_week_after = (first_digit_function)(week_after[week_after>=1])
+    first_digits_week_before2=(first_digit_function)(week_before[week_before>=10])
+    first_digits_week_after2 =(first_digit_function)(week_after [week_after>=10])
+    """print("first_digits_week_before.shape()", first_digits_week_before .shape)
+    print("first_digits_week_after.shape()",  first_digits_week_after  .shape)
+    print("first_digits_week_before2.shape()",first_digits_week_before2.shape)
+    print("first_digits_week_after2.shape()", first_digits_week_after2 .shape)"""
+    unique_before, counts_before = np.unique(first_digits_week_before, return_counts=True)
+    unique_after,  counts_after  = np.unique(first_digits_week_after,  return_counts=True)
+    unique_before2,counts_before2= np.unique(first_digits_week_before2,return_counts=True)
+    unique_after2, counts_after2 = np.unique(first_digits_week_after2, return_counts=True)
+    print("First digits the week before:")
+    b1 = dict(zip(unique_before, counts_before))
+    print(b1)
+    print("First digits the week after:")
+    a1 = dict(zip(unique_after,  counts_after))
+    print(a1)
+    print("First digits the week before(reduced data):")
+    b2 = dict(zip(unique_before2,  counts_before2))
+    print(b2)
+    print("First digits the week after (reduced data):")
+    a2 = dict(zip(unique_after2,  counts_after2))
+    print(a2)
+    
+    list_b1 = sorted(b1.items()) # sorted by key, return a list of tuples
+    x_b1, y_b1 = zip(*list_b1) # unpack a list of pairs into two tuples
+    list_a1 = sorted(a1.items()) # sorted by key, return a list of tuples
+    x_a1, y_a1 = zip(*list_a1) # unpack a list of pairs into two tuples
+    list_b2 = sorted(b2.items()) # sorted by key, return a list of tuples
+    x_b2, y_b2 = zip(*list_b2) # unpack a list of pairs into two tuples
+    list_a2 = sorted(a2.items()) # sorted by key, return a list of tuples
+    x_a2, y_a2 = zip(*list_a2) # unpack a list of pairs into two tuples
+
+    y_b1_reduced = np.divide(y_b1,first_digits_week_before.shape[0])
+    y_a1_reduced = np.divide(y_a1,first_digits_week_after.shape[0])
+    y_b2_reduced = np.divide(y_b2,first_digits_week_before2.shape[0])
+    y_a2_reduced = np.divide(y_a2,first_digits_week_after2.shape[0])
+    
+    one_to_nine = np.arange(1,10)
+    benfordslaw = np.log10(1+np.divide(1,one_to_nine))
+    
+    # blue dashes, red dashes, blue triangles, red triangles
+    plt.plot(x_b1, y_b1_reduced, 'b--', label=str(numdays)+" days before "+datestring)
+    plt.plot(x_a1, y_a1_reduced, 'r--', label=str(numdays)+" days after " +datestring)
+    plt.plot(x_b2, y_b2_reduced, 'b-',  label=str(numdays)+" days before "+datestring+", at least 10 new cases")
+    plt.plot(x_a2, y_a2_reduced, 'r-',  label=str(numdays)+" days after "+datestring+", at least 10 new cases")
+    plt.plot(one_to_nine, benfordslaw, 'g-', label = "Benford's Law")
+    plt.xlabel('First digit of number of new cases')
+    plt.ylabel('Frequency')
+    plt.legend()
+    plt.savefig("graph.png")
+    plt.show()
+    
     tx_phr_filename = "PHR_MSA_County_masterlist.csv"
     if os.path.isfile(tx_phr_filename):
         print("Now processing Texas health region data.")
@@ -171,7 +233,7 @@ if __name__=='__main__':
         tx = input("What state do you want to look at?\n"+
                    "2 letter abbreviation e.g. GA.\n"+
                    "affix with B, e.g. FLB, to get counties where total cases decreased\n"+
-                   "by 3 or more at least once (likely because of data reallocation).\n"+
+                   "by "+str(num_decrease_to_exclude)+" or more at least once (likely because of data reallocation).\n"+
                    "For Texas only, affix with + (so TX+ or TXB+) to include health region info.\n"+
                    "Q to quit.\n").upper()
 
