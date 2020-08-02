@@ -6,4 +6,4 @@ If you have Python 3, click on the green "Code" button and then "Download ZIP." 
 
 The only packages it uses are numpy, pyplot, csv, collections, and os.path.
 
-The input prompts make it clear what to type. You can get the names of counties in the top and bottom decile of change in number of new cases across that date that are in a given state; and for Texas, you can get their Public Health Region numbers as well.
+The input prompts make it clear what to type. You can get the names of counties in the top and bottom decile of change in number of new cases per day per capita across that date that are in a given state; and for Texas, you can get their Public Health Region numbers as well.
