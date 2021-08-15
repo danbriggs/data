@@ -1,0 +1,257 @@
+ County Name ,FIPS #, County # ,Public Health Region (11),Health Service Region (8),Metropolitan Statistical Area (MSA),Metropolitan Divisions (MD),Metro Area (82),NCHS Urban Rural Classification (2006),NCHS Urban Rural Classification (2013),Border 32 (La Paz Agreement),Border 15
+ Anderson ,001, 1 ,4,4/5N,--,--,Non-Metro,Micropolitan,Micropolitan,Non-Border,Non-Border
+ Andrews ,003, 2 ,9,9/10,--,--,Non-Metro,Micropolitan,Micropolitan,Non-Border,Non-Border
+ Angelina ,005, 3 ,5,4/5N,--,--,Non-Metro,Micropolitan,Micropolitan,Non-Border,Non-Border
+ Aransas ,007, 4 ,11,11,Corpus Christi,--,Metro,Medium Metro,Medium Metro,Non-Border,Non-Border
+ Archer ,009, 5 ,2,2/3,Wichita Falls,--,Metro,Small Metro,Small Metro,Non-Border,Non-Border
+ Armstrong ,011, 6 ,1,1,Amarillo,--,Metro,Small Metro,Medium Metro,Non-Border,Non-Border
+ Atascosa ,013, 7 ,8,8,San Antonio-New Braunfels,--,Metro,Large Fringe Metro,Large Fringe Metro,Non-Border,Non-Border
+ Austin ,015, 8 ,6,6/5S,Houston-The Woodlands-Sugar Land,--,Metro,Large Fringe Metro,Large Fringe Metro,Non-Border,Non-Border
+ Bailey ,017, 9 ,1,1,--,--,Non-Metro,Noncore,Non-core,Non-Border,Non-Border
+ Bandera ,019, 10 ,8,8,San Antonio-New Braunfels,--,Metro,Large Fringe Metro,Large Fringe Metro,Non-Border,Non-Border
+ Bastrop ,021, 11 ,7,7,Austin-Round Rock,--,Metro,Large Fringe Metro,Large Fringe Metro,Non-Border,Non-Border
+ Baylor ,023, 12 ,2,2/3,--,--,Non-Metro,Noncore,Non-core,Non-Border,Non-Border
+ Bee ,025, 13 ,11,11,--,--,Non-Metro,Micropolitan,Micropolitan,Non-Border,Non-Border
+ Bell ,027, 14 ,7,7,Killeen-Temple,--,Metro,Medium Metro,Medium Metro,Non-Border,Non-Border
+ Bexar ,029, 15 ,8,8,San Antonio-New Braunfels,--,Metro,Large Central Metro,Large Central Metro,Non-Border,Non-Border
+ Blanco ,031, 16 ,7,7,--,--,Non-Metro,Noncore,Non-core,Non-Border,Non-Border
+ Borden ,033, 17 ,9,9/10,--,--,Non-Metro,Noncore,Non-core,Non-Border,Non-Border
+ Bosque ,035, 18 ,7,7,--,--,Non-Metro,Noncore,Non-core,Non-Border,Non-Border
+ Bowie ,037, 19 ,4,4/5N,Texarkana,--,Metro,Small Metro,Small Metro,Non-Border,Non-Border
+ Brazoria ,039, 20 ,6,6/5S,Houston-The Woodlands-Sugar Land,--,Metro,Large Fringe Metro,Large Fringe Metro,Non-Border,Non-Border
+ Brazos ,041, 21 ,7,7,College Station-Bryan,--,Metro,Small Metro,Small Metro,Non-Border,Non-Border
+ Brewster ,043, 22 ,10,9/10,--,--,Non-Metro,Noncore,Non-core,Border,Border
+ Briscoe ,045, 23 ,1,1,--,--,Non-Metro,Noncore,Non-core,Non-Border,Non-Border
+ Brooks ,047, 24 ,11,11,--,--,Non-Metro,Noncore,Non-core,Border,Non-Border
+ Brown ,049, 25 ,2,2/3,--,--,Non-Metro,Micropolitan,Micropolitan,Non-Border,Non-Border
+ Burleson ,051, 26 ,7,7,College Station-Bryan,--,Metro,Small Metro,Small Metro,Non-Border,Non-Border
+ Burnet ,053, 27 ,7,7,--,--,Non-Metro,Noncore,Non-core,Non-Border,Non-Border
+ Caldwell ,055, 28 ,7,7,Austin-Round Rock,--,Metro,Large Fringe Metro,Large Fringe Metro,Non-Border,Non-Border
+ Calhoun ,057, 29 ,8,8,--,--,Non-Metro,Small Metro,Micropolitan,Non-Border,Non-Border
+ Callahan ,059, 30 ,2,2/3,Abilene,--,Metro,Small Metro,Small Metro,Non-Border,Non-Border
+ Cameron ,061, 31 ,11,11,Brownsville-Harlingen,--,Metro,Medium Metro,Medium Metro,Border,Border
+ Camp ,063, 32 ,4,4/5N,--,--,Non-Metro,Noncore,Non-core,Non-Border,Non-Border
+ Carson ,065, 33 ,1,1,Amarillo,--,Metro,Small Metro,Medium Metro,Non-Border,Non-Border
+ Cass ,067, 34 ,4,4/5N,--,--,Non-Metro,Noncore,Non-core,Non-Border,Non-Border
+ Castro ,069, 35 ,1,1,--,--,Non-Metro,Noncore,Non-core,Non-Border,Non-Border
+ Chambers ,071, 36 ,6,6/5S,Houston-The Woodlands-Sugar Land,--,Metro,Large Fringe Metro,Large Fringe Metro,Non-Border,Non-Border
+ Cherokee ,073, 37 ,4,4/5N,--,--,Non-Metro,Micropolitan,Micropolitan,Non-Border,Non-Border
+ Childress ,075, 38 ,1,1,--,--,Non-Metro,Noncore,Non-core,Non-Border,Non-Border
+ Clay ,077, 39 ,2,2/3,Wichita Falls,--,Metro,Small Metro,Small Metro,Non-Border,Non-Border
+ Cochran ,079, 40 ,1,1,--,--,Non-Metro,Noncore,Non-core,Non-Border,Non-Border
+ Coke ,081, 41 ,9,9/10,--,--,Non-Metro,Noncore,Non-core,Non-Border,Non-Border
+ Coleman ,083, 42 ,2,2/3,--,--,Non-Metro,Noncore,Non-core,Non-Border,Non-Border
+ Collin ,085, 43 ,3,2/3,Dallas-Fort Worth-Arlington,Dallas-Plano-Irving MD,Metro,Large Fringe Metro,Large Central Metro,Non-Border,Non-Border
+ Collingsworth ,087, 44 ,1,1,--,--,Non-Metro,Noncore,Non-core,Non-Border,Non-Border
+ Colorado ,089, 45 ,6,6/5S,--,--,Non-Metro,Noncore,Non-core,Non-Border,Non-Border
+ Comal ,091, 46 ,8,8,San Antonio-New Braunfels,--,Metro,Large Fringe Metro,Large Fringe Metro,Non-Border,Non-Border
+ Comanche ,093, 47 ,2,2/3,--,--,Non-Metro,Noncore,Non-core,Non-Border,Non-Border
+ Concho ,095, 48 ,9,9/10,--,--,Non-Metro,Noncore,Non-core,Non-Border,Non-Border
+ Cooke ,097, 49 ,3,2/3,--,--,Non-Metro,Micropolitan,Micropolitan,Non-Border,Non-Border
+ Coryell ,099, 50 ,7,7,Killeen-Temple,--,Metro,Medium Metro,Medium Metro,Non-Border,Non-Border
+ Cottle ,101, 51 ,2,2/3,--,--,Non-Metro,Noncore,Non-core,Non-Border,Non-Border
+ Crane ,103, 52 ,9,9/10,--,--,Non-Metro,Noncore,Non-core,Non-Border,Non-Border
+ Crockett ,105, 53 ,9,9/10,--,--,Non-Metro,Noncore,Non-core,Border,Non-Border
+ Crosby ,107, 54 ,1,1,Lubbock,--,Metro,Medium Metro,Medium Metro,Non-Border,Non-Border
+ Culberson ,109, 55 ,10,9/10,--,--,Non-Metro,Noncore,Non-core,Border,Non-Border
+ Dallam ,111, 56 ,1,1,--,--,Non-Metro,Noncore,Non-core,Non-Border,Non-Border
+ Dallas ,113, 57 ,3,2/3,Dallas-Fort Worth-Arlington,Dallas-Plano-Irving MD,Metro,Large Central Metro,Large Central Metro,Non-Border,Non-Border
+ Dawson ,115, 58 ,9,9/10,--,--,Non-Metro,Micropolitan,Micropolitan,Non-Border,Non-Border
+ Deaf Smith ,117, 59 ,1,1,--,--,Non-Metro,Micropolitan,Micropolitan,Non-Border,Non-Border
+ Delta ,119, 60 ,4,4/5N,--,--,Non-Metro,Large Fringe Metro,Non-core,Non-Border,Non-Border
+ Denton ,121, 61 ,3,2/3,Dallas-Fort Worth-Arlington,Dallas-Plano-Irving MD,Metro,Large Fringe Metro,Large Fringe Metro,Non-Border,Non-Border
+ DeWitt ,123, 62 ,8,8,--,--,Non-Metro,Noncore,Non-core,Non-Border,Non-Border
+ Dickens ,125, 63 ,1,1,--,--,Non-Metro,Noncore,Non-core,Non-Border,Non-Border
+ Dimmit ,127, 64 ,8,8,--,--,Non-Metro,Noncore,Non-core,Border,Non-Border
+ Donley ,129, 65 ,1,1,--,--,Non-Metro,Noncore,Non-core,Non-Border,Non-Border
+ Duval ,131, 66 ,11,11,--,--,Non-Metro,Noncore,Non-core,Border,Non-Border
+ Eastland ,133, 67 ,2,2/3,--,--,Non-Metro,Noncore,Non-core,Non-Border,Non-Border
+ Ector ,135, 68 ,9,9/10,Odessa,--,Metro,Small Metro,Small Metro,Non-Border,Non-Border
+ Edwards ,137, 69 ,8,8,--,--,Non-Metro,Noncore,Non-core,Border,Non-Border
+ Ellis ,139, 70 ,3,2/3,Dallas-Fort Worth-Arlington,Dallas-Plano-Irving MD,Metro,Large Fringe Metro,Large Fringe Metro,Non-Border,Non-Border
+ El Paso ,141, 71 ,10,9/10,El Paso,--,Metro,Medium Metro,Medium Metro,Border,Border
+ Erath ,143, 72 ,3,2/3,--,--,Non-Metro,Micropolitan,Micropolitan,Non-Border,Non-Border
+ Falls ,145, 73 ,7,7,Waco,--,Metro,Noncore,Medium Metro,Non-Border,Non-Border
+ Fannin ,147, 74 ,3,2/3,--,--,Non-Metro,Micropolitan,Non-core,Non-Border,Non-Border
+ Fayette ,149, 75 ,7,7,--,--,Non-Metro,Noncore,Non-core,Non-Border,Non-Border
+ Fisher ,151, 76 ,2,2/3,--,--,Non-Metro,Noncore,Non-core,Non-Border,Non-Border
+ Floyd ,153, 77 ,1,1,--,--,Non-Metro,Noncore,Non-core,Non-Border,Non-Border
+ Foard ,155, 78 ,2,2/3,--,--,Non-Metro,Noncore,Non-core,Non-Border,Non-Border
+ Fort Bend ,157, 79 ,6,6/5S,Houston-The Woodlands-Sugar Land,--,Metro,Large Fringe Metro,Large Fringe Metro,Non-Border,Non-Border
+ Franklin ,159, 80 ,4,4/5N,--,--,Non-Metro,Noncore,Non-core,Non-Border,Non-Border
+ Freestone ,161, 81 ,7,7,--,--,Non-Metro,Noncore,Non-core,Non-Border,Non-Border
+ Frio ,163, 82 ,8,8,--,--,Non-Metro,Noncore,Non-core,Border,Non-Border
+ Gaines ,165, 83 ,9,9/10,--,--,Non-Metro,Noncore,Non-core,Non-Border,Non-Border
+ Galveston ,167, 84 ,6,6/5S,Houston-The Woodlands-Sugar Land,--,Metro,Large Fringe Metro,Large Fringe Metro,Non-Border,Non-Border
+ Garza ,169, 85 ,1,1,--,--,Non-Metro,Noncore,Non-core,Non-Border,Non-Border
+ Gillespie ,171, 86 ,8,8,--,--,Non-Metro,Noncore,Micropolitan,Non-Border,Non-Border
+ Glasscock ,173, 87 ,9,9/10,--,--,Non-Metro,Noncore,Micropolitan,Non-Border,Non-Border
+ Goliad ,175, 88 ,8,8,Victoria,--,Metro,Small Metro,Small Metro,Non-Border,Non-Border
+ Gonzales ,177, 89 ,8,8,--,--,Non-Metro,Noncore,Non-core,Non-Border,Non-Border
+ Gray ,179, 90 ,1,1,--,--,Non-Metro,Micropolitan,Micropolitan,Non-Border,Non-Border
+ Grayson ,181, 91 ,3,2/3,Sherman-Denison,--,Metro,Small Metro,Small Metro,Non-Border,Non-Border
+ Gregg ,183, 92 ,4,4/5N,Longview,--,Metro,Small Metro,Small Metro,Non-Border,Non-Border
+ Grimes ,185, 93 ,7,7,--,--,Non-Metro,Noncore,Non-core,Non-Border,Non-Border
+ Guadalupe ,187, 94 ,8,8,San Antonio-New Braunfels,--,Metro,Large Fringe Metro,Large Fringe Metro,Non-Border,Non-Border
+ Hale ,189, 95 ,1,1,--,--,Non-Metro,Micropolitan,Micropolitan,Non-Border,Non-Border
+ Hall ,191, 96 ,1,1,--,--,Non-Metro,Noncore,Non-core,Non-Border,Non-Border
+ Hamilton ,193, 97 ,7,7,--,--,Non-Metro,Noncore,Non-core,Non-Border,Non-Border
+ Hansford ,195, 98 ,1,1,--,--,Non-Metro,Noncore,Non-core,Non-Border,Non-Border
+ Hardeman ,197, 99 ,2,2/3,--,--,Non-Metro,Noncore,Non-core,Non-Border,Non-Border
+ Hardin ,199, 100 ,5,6/5S,Beaumont-Port Arthur,--,Metro,Medium Metro,Medium Metro,Non-Border,Non-Border
+ Harris ,201, 101 ,6,6/5S,Houston-The Woodlands-Sugar Land,--,Metro,Large Central Metro,Large Central Metro,Non-Border,Non-Border
+ Harrison ,203, 102 ,4,4/5N,--,--,Non-Metro,Micropolitan,Micropolitan,Non-Border,Non-Border
+ Hartley ,205, 103 ,1,1,--,--,Non-Metro,Noncore,Non-core,Non-Border,Non-Border
+ Haskell ,207, 104 ,2,2/3,--,--,Non-Metro,Noncore,Non-core,Non-Border,Non-Border
+ Hays ,209, 105 ,7,7,Austin-Round Rock,--,Metro,Large Fringe Metro,Large Fringe Metro,Non-Border,Non-Border
+ Hemphill ,211, 106 ,1,1,--,--,Non-Metro,Noncore,Non-core,Non-Border,Non-Border
+ Henderson ,213, 107 ,4,4/5N,--,--,Non-Metro,Micropolitan,Micropolitan,Non-Border,Non-Border
+ Hidalgo ,215, 108 ,11,11,McAllen-Edinburgh-Mission,--,Metro,Medium Metro,Medium Metro,Border,Border
+ Hill ,217, 109 ,7,7,--,--,Non-Metro,Noncore,Non-core,Non-Border,Non-Border
+ Hockley ,219, 110 ,1,1,--,--,Non-Metro,Micropolitan,Micropolitan,Non-Border,Non-Border
+ Hood ,221, 111 ,3,2/3,Dallas-Fort Worth-Arlington,Fort Worth-Arlington MD,Metro,Micropolitan,Large Fringe Metro,Non-Border,Non-Border
+ Hopkins ,223, 112 ,4,4/5N,--,--,Non-Metro,Micropolitan,Micropolitan,Non-Border,Non-Border
+ Houston ,225, 113 ,5,4/5N,--,--,Non-Metro,Noncore,Non-core,Non-Border,Non-Border
+ Howard ,227, 114 ,9,9/10,--,--,Non-Metro,Micropolitan,Micropolitan,Non-Border,Non-Border
+ Hudspeth ,229, 115 ,10,9/10,El Paso,--,Metro,Noncore,Medium Metro,Border,Border
+ Hunt ,231, 116 ,3,2/3,Dallas-Fort Worth-Arlington,Dallas-Plano-Irving MD,Metro,Large Fringe Metro,Large Fringe Metro,Non-Border,Non-Border
+ Hutchinson ,233, 117 ,1,1,--,--,Non-Metro,Micropolitan,Micropolitan,Non-Border,Non-Border
+ Irion ,235, 118 ,9,9/10,San Angelo,--,Metro,Small Metro,Small Metro,Non-Border,Non-Border
+ Jack ,237, 119 ,2,2/3,--,--,Non-Metro,Noncore,Non-core,Non-Border,Non-Border
+ Jackson ,239, 120 ,8,8,--,--,Non-Metro,Noncore,Non-core,Non-Border,Non-Border
+ Jasper ,241, 121 ,5,4/5N,--,--,Non-Metro,Noncore,Non-core,Non-Border,Non-Border
+ Jeff Davis ,243, 122 ,10,9/10,--,--,Non-Metro,Noncore,Non-core,Border,Border
+ Jefferson ,245, 123 ,5,6/5S,Beaumont-Port Arthur,--,Metro,Medium Metro,Medium Metro,Non-Border,Non-Border
+ Jim Hogg ,247, 124 ,11,11,--,--,Non-Metro,Noncore,Non-core,Border,Non-Border
+ Jim Wells ,249, 125 ,11,11,--,--,Non-Metro,Micropolitan,Micropolitan,Non-Border,Non-Border
+ Johnson ,251, 126 ,3,2/3,Dallas-Fort Worth-Arlington,Fort Worth-Arlington MD,Metro,Large Fringe Metro,Large Fringe Metro,Non-Border,Non-Border
+ Jones ,253, 127 ,2,2/3,Abilene,--,Metro,Small Metro,Small Metro,Non-Border,Non-Border
+ Karnes ,255, 128 ,8,8,--,--,Non-Metro,Noncore,Non-core,Non-Border,Non-Border
+ Kaufman ,257, 129 ,3,2/3,Dallas-Fort Worth-Arlington,Dallas-Plano-Irving MD,Metro,Large Fringe Metro,Large Fringe Metro,Non-Border,Non-Border
+ Kendall ,259, 130 ,8,8,San Antonio-New Braunfels,--,Metro,Large Fringe Metro,Large Fringe Metro,Non-Border,Non-Border
+ Kenedy ,261, 131 ,11,11,--,--,Non-Metro,Micropolitan,Micropolitan,Border,Non-Border
+ Kent ,263, 132 ,2,2/3,--,--,Non-Metro,Noncore,Non-core,Non-Border,Non-Border
+ Kerr ,265, 133 ,8,8,--,--,Non-Metro,Micropolitan,Micropolitan,Non-Border,Non-Border
+ Kimble ,267, 134 ,9,9/10,--,--,Non-Metro,Noncore,Non-core,Non-Border,Non-Border
+ King ,269, 135 ,1,1,--,--,Non-Metro,Noncore,Non-core,Non-Border,Non-Border
+ Kinney ,271, 136 ,8,8,--,--,Non-Metro,Noncore,Non-core,Border,Border
+ Kleberg ,273, 137 ,11,11,--,--,Non-Metro,Micropolitan,Micropolitan,Non-Border,Non-Border
+ Knox ,275, 138 ,2,2/3,--,--,Non-Metro,Noncore,Non-core,Non-Border,Non-Border
+ Lamar ,277, 139 ,4,4/5N,--,--,Non-Metro,Micropolitan,Micropolitan,Non-Border,Non-Border
+ Lamb ,279, 140 ,1,1,--,--,Non-Metro,Noncore,Non-core,Non-Border,Non-Border
+ Lampasas ,281, 141 ,7,7,Killeen-Temple,--,Metro,Medium Metro,Medium Metro,Non-Border,Non-Border
+ La Salle ,283, 142 ,8,8,--,--,Non-Metro,Noncore,Non-core,Border,Non-Border
+ Lavaca ,285, 143 ,8,8,--,--,Non-Metro,Noncore,Non-core,Non-Border,Non-Border
+ Lee ,287, 144 ,7,7,--,--,Non-Metro,Noncore,Non-core,Non-Border,Non-Border
+ Leon ,289, 145 ,7,7,--,--,Non-Metro,Noncore,Non-core,Non-Border,Non-Border
+ Liberty ,291, 146 ,6,6/5S,Houston-The Woodlands-Sugar Land,--,Metro,Large Fringe Metro,Large Fringe Metro,Non-Border,Non-Border
+ Limestone ,293, 147 ,7,7,--,--,Non-Metro,Noncore,Non-core,Non-Border,Non-Border
+ Lipscomb ,295, 148 ,1,1,--,--,Non-Metro,Noncore,Non-core,Non-Border,Non-Border
+ Live Oak ,297, 149 ,11,11,--,--,Non-Metro,Noncore,Non-core,Non-Border,Non-Border
+ Llano ,299, 150 ,7,7,--,--,Non-Metro,Noncore,Non-core,Non-Border,Non-Border
+ Loving ,301, 151 ,9,9/10,--,--,Non-Metro,Noncore,Non-core,Non-Border,Non-Border
+ Lubbock ,303, 152 ,1,1,Lubbock,--,Metro,Medium Metro,Medium Metro,Non-Border,Non-Border
+ Lynn ,305, 153 ,1,1,Lubbock,--,Metro,Noncore,Medium Metro,Non-Border,Non-Border
+ McCulloch ,307, 154 ,9,9/10,--,--,Non-Metro,Noncore,Non-core,Non-Border,Non-Border
+ McLennan ,309, 155 ,7,7,Waco,--,Metro,Small Metro,Medium Metro,Non-Border,Non-Border
+ McMullen ,311, 156 ,11,11,--,--,Non-Metro,Noncore,Non-core,Border,Non-Border
+ Madison ,313, 157 ,7,7,--,--,Non-Metro,Noncore,Non-core,Non-Border,Non-Border
+ Marion ,315, 158 ,4,4/5N,--,--,Non-Metro,Noncore,Non-core,Non-Border,Non-Border
+ Martin ,317, 159 ,9,9/10,Midland,--,Metro,Noncore,Small Metro,Non-Border,Non-Border
+ Mason ,319, 160 ,9,9/10,--,--,Non-Metro,Noncore,Non-core,Non-Border,Non-Border
+ Matagorda ,321, 161 ,6,6/5S,--,--,Non-Metro,Micropolitan,Micropolitan,Non-Border,Non-Border
+ Maverick ,323, 162 ,8,8,--,--,Non-Metro,Micropolitan,Micropolitan,Border,Border
+ Medina ,325, 163 ,8,8,San Antonio-New Braunfels,--,Metro,Large Fringe Metro,Large Fringe Metro,Non-Border,Non-Border
+ Menard ,327, 164 ,9,9/10,--,--,Non-Metro,Noncore,Non-core,Non-Border,Non-Border
+ Midland ,329, 165 ,9,9/10,Midland,--,Metro,Small Metro,Small Metro,Non-Border,Non-Border
+ Milam ,331, 166 ,7,7,--,--,Non-Metro,Noncore,Non-core,Non-Border,Non-Border
+ Mills ,333, 167 ,7,7,--,--,Non-Metro,Noncore,Non-core,Non-Border,Non-Border
+ Mitchell ,335, 168 ,2,2/3,--,--,Non-Metro,Noncore,Non-core,Non-Border,Non-Border
+ Montague ,337, 169 ,2,2/3,--,--,Non-Metro,Noncore,Non-core,Non-Border,Non-Border
+ Montgomery ,339, 170 ,6,6/5S,Houston-The Woodlands-Sugar Land,--,Metro,Large Fringe Metro,Large Fringe Metro,Non-Border,Non-Border
+ Moore ,341, 171 ,1,1,--,--,Non-Metro,Micropolitan,Micropolitan,Non-Border,Non-Border
+ Morris ,343, 172 ,4,4/5N,--,--,Non-Metro,Noncore,Non-core,Non-Border,Non-Border
+ Motley ,345, 173 ,1,1,--,--,Non-Metro,Noncore,Non-core,Non-Border,Non-Border
+ Nacogdoches ,347, 174 ,5,4/5N,--,--,Non-Metro,Micropolitan,Micropolitan,Non-Border,Non-Border
+ Navarro ,349, 175 ,3,2/3,--,--,Non-Metro,Micropolitan,Micropolitan,Non-Border,Non-Border
+ Newton ,351, 176 ,5,4/5N,Beaumont-Port Arthur,--,Metro,Noncore,Medium Metro,Non-Border,Non-Border
+ Nolan ,353, 177 ,2,2/3,--,--,Non-Metro,Micropolitan,Micropolitan,Non-Border,Non-Border
+ Nueces ,355, 178 ,11,11,Corpus Christi,--,Metro,Medium Metro,Medium Metro,Non-Border,Non-Border
+ Ochiltree ,357, 179 ,1,1,--,--,Non-Metro,Noncore,Non-core,Non-Border,Non-Border
+ Oldham ,359, 180 ,1,1,Amarillo,--,Metro,Noncore,Medium Metro,Non-Border,Non-Border
+ Orange ,361, 181 ,5,6/5S,Beaumont-Port Arthur,--,Metro,Medium Metro,Medium Metro,Non-Border,Non-Border
+ Palo Pinto ,363, 182 ,3,2/3,--,--,Non-Metro,Micropolitan,Micropolitan,Non-Border,Non-Border
+ Panola ,365, 183 ,4,4/5N,--,--,Non-Metro,Noncore,Non-core,Non-Border,Non-Border
+ Parker ,367, 184 ,3,2/3,Dallas-Fort Worth-Arlington,Fort Worth-Arlington MD,Metro,Large Fringe Metro,Large Fringe Metro,Non-Border,Non-Border
+ Parmer ,369, 185 ,1,1,--,--,Non-Metro,Noncore,Non-core,Non-Border,Non-Border
+ Pecos ,371, 186 ,9,9/10,--,--,Non-Metro,Noncore,Non-core,Border,Non-Border
+ Polk ,373, 187 ,5,4/5N,--,--,Non-Metro,Noncore,Non-core,Non-Border,Non-Border
+ Potter ,375, 188 ,1,1,Amarillo,--,Metro,Small Metro,Medium Metro,Non-Border,Non-Border
+ Presidio ,377, 189 ,10,9/10,--,--,Non-Metro,Noncore,Non-core,Border,Border
+ Rains ,379, 190 ,4,4/5N,--,--,Non-Metro,Noncore,Non-core,Non-Border,Non-Border
+ Randall ,381, 191 ,1,1,Amarillo,--,Metro,Small Metro,Medium Metro,Non-Border,Non-Border
+ Reagan ,383, 192 ,9,9/10,--,--,Non-Metro,Noncore,Non-core,Non-Border,Non-Border
+ Real ,385, 193 ,8,8,--,--,Non-Metro,Noncore,Non-core,Border,Non-Border
+ Red River ,387, 194 ,4,4/5N,--,--,Non-Metro,Noncore,Non-core,Non-Border,Non-Border
+ Reeves ,389, 195 ,9,9/10,--,--,Non-Metro,Micropolitan,Micropolitan,Border,Non-Border
+ Refugio ,391, 196 ,11,11,--,--,Non-Metro,Noncore,Non-core,Non-Border,Non-Border
+ Roberts ,393, 197 ,1,1,--,--,Non-Metro,Micropolitan,Non-core,Non-Border,Non-Border
+ Robertson ,395, 198 ,7,7,College Station-Bryan,--,Metro,Small Metro,Small Metro,Non-Border,Non-Border
+ Rockwall ,397, 199 ,3,2/3,Dallas-Fort Worth-Arlington,Dallas-Plano-Irving MD,Metro,Large Fringe Metro,Large Fringe Metro,Non-Border,Non-Border
+ Runnels ,399, 200 ,2,2/3,--,--,Non-Metro,Noncore,Non-core,Non-Border,Non-Border
+ Rusk ,401, 201 ,4,4/5N,Longview,--,Metro,Small Metro,Small Metro,Non-Border,Non-Border
+ Sabine ,403, 202 ,5,4/5N,--,--,Non-Metro,Noncore,Non-core,Non-Border,Non-Border
+ San Augustine ,405, 203 ,5,4/5N,--,--,Non-Metro,Noncore,Non-core,Non-Border,Non-Border
+ San Jacinto ,407, 204 ,5,4/5N,--,--,Non-Metro,Large Fringe Metro,Non-core,Non-Border,Non-Border
+ San Patricio ,409, 205 ,11,11,Corpus Christi,--,Metro,Medium Metro,Medium Metro,Non-Border,Non-Border
+ San Saba ,411, 206 ,7,7,--,--,Non-Metro,Noncore,Non-core,Non-Border,Non-Border
+ Schleicher ,413, 207 ,9,9/10,--,--,Non-Metro,Noncore,Non-core,Non-Border,Non-Border
+ Scurry ,415, 208 ,2,2/3,--,--,Non-Metro,Micropolitan,Micropolitan,Non-Border,Non-Border
+ Shackelford ,417, 209 ,2,2/3,--,--,Non-Metro,Noncore,Non-core,Non-Border,Non-Border
+ Shelby ,419, 210 ,5,4/5N,--,--,Non-Metro,Noncore,Non-core,Non-Border,Non-Border
+ Sherman ,421, 211 ,1,1,--,--,Non-Metro,Noncore,Non-core,Non-Border,Non-Border
+ Smith ,423, 212 ,4,4/5N,Tyler,--,Metro,Small Metro,Small Metro,Non-Border,Non-Border
+ Somervell ,425, 213 ,3,2/3,Dallas-Fort Worth-Arlington,Fort Worth-Arlington MD,Metro,Micropolitan,Large Fringe Metro,Non-Border,Non-Border
+ Starr ,427, 214 ,11,11,--,--,Non-Metro,Micropolitan,Micropolitan,Border,Border
+ Stephens ,429, 215 ,2,2/3,--,--,Non-Metro,Noncore,Non-core,Non-Border,Non-Border
+ Sterling ,431, 216 ,9,9/10,--,--,Non-Metro,Noncore,Non-core,Non-Border,Non-Border
+ Stonewall ,433, 217 ,2,2/3,--,--,Non-Metro,Noncore,Non-core,Non-Border,Non-Border
+ Sutton ,435, 218 ,9,9/10,--,--,Non-Metro,Noncore,Non-core,Border,Non-Border
+ Swisher ,437, 219 ,1,1,--,--,Non-Metro,Noncore,Non-core,Non-Border,Non-Border
+ Tarrant ,439, 220 ,3,2/3,Dallas-Fort Worth-Arlington,Fort Worth-Arlington MD,Metro,Large Central Metro,Large Central Metro,Non-Border,Non-Border
+ Taylor ,441, 221 ,2,2/3,Abilene,--,Metro,Small Metro,Small Metro,Non-Border,Non-Border
+ Terrell ,443, 222 ,9,9/10,--,--,Non-Metro,Noncore,Non-core,Border,Border
+ Terry ,445, 223 ,1,1,--,--,Non-Metro,Noncore,Non-core,Non-Border,Non-Border
+ Throckmorton ,447, 224 ,2,2/3,--,--,Non-Metro,Noncore,Non-core,Non-Border,Non-Border
+ Titus ,449, 225 ,4,4/5N,--,--,Non-Metro,Micropolitan,Micropolitan,Non-Border,Non-Border
+ Tom Green ,451, 226 ,9,9/10,San Angelo,--,Metro,Small Metro,Small Metro,Non-Border,Non-Border
+ Travis ,453, 227 ,7,7,Austin-Round Rock,--,Metro,Large Central Metro,Large Central Metro,Non-Border,Non-Border
+ Trinity ,455, 228 ,5,4/5N,--,--,Non-Metro,Noncore,Micropolitan,Non-Border,Non-Border
+ Tyler ,457, 229 ,5,4/5N,--,--,Non-Metro,Noncore,Non-core,Non-Border,Non-Border
+ Upshur ,459, 230 ,4,4/5N,Longview,--,Metro,Small Metro,Small Metro,Non-Border,Non-Border
+ Upton ,461, 231 ,9,9/10,--,--,Non-Metro,Noncore,Non-core,Non-Border,Non-Border
+ Uvalde ,463, 232 ,8,8,--,--,Non-Metro,Micropolitan,Micropolitan,Border,Non-Border
+ Val Verde ,465, 233 ,8,8,--,--,Non-Metro,Micropolitan,Micropolitan,Border,Border
+ Van Zandt ,467, 234 ,4,4/5N,--,--,Non-Metro,Noncore,Non-core,Non-Border,Non-Border
+ Victoria ,469, 235 ,8,8,Victoria,--,Metro,Small Metro,Small Metro,Non-Border,Non-Border
+ Walker ,471, 236 ,6,6/5S,--,--,Non-Metro,Micropolitan,Micropolitan,Non-Border,Non-Border
+ Waller ,473, 237 ,6,6/5S,Houston-The Woodlands-Sugar Land,--,Metro,Large Fringe Metro,Large Fringe Metro,Non-Border,Non-Border
+ Ward ,475, 238 ,9,9/10,--,--,Non-Metro,Noncore,Non-core,Non-Border,Non-Border
+ Washington ,477, 239 ,7,7,--,--,Non-Metro,Micropolitan,Micropolitan,Non-Border,Non-Border
+ Webb ,479, 240 ,11,11,Laredo,--,Metro,Small Metro,Medium Metro,Border,Border
+ Wharton ,481, 241 ,6,6/5S,--,--,Non-Metro,Micropolitan,Micropolitan,Non-Border,Non-Border
+ Wheeler ,483, 242 ,1,1,--,--,Non-Metro,Noncore,Non-core,Non-Border,Non-Border
+ Wichita ,485, 243 ,2,2/3,Wichita Falls,--,Metro,Small Metro,Small Metro,Non-Border,Non-Border
+ Wilbarger ,487, 244 ,2,2/3,--,--,Non-Metro,Micropolitan,Micropolitan,Non-Border,Non-Border
+ Willacy ,489, 245 ,11,11,--,--,Non-Metro,Micropolitan,Micropolitan,Border,Border
+ Williamson ,491, 246 ,7,7,Austin-Round Rock,--,Metro,Large Fringe Metro,Large Fringe Metro,Non-Border,Non-Border
+ Wilson ,493, 247 ,8,8,San Antonio-New Braunfels,--,Metro,Large Fringe Metro,Large Fringe Metro,Non-Border,Non-Border
+ Winkler ,495, 248 ,9,9/10,--,--,Non-Metro,Noncore,Non-core,Non-Border,Non-Border
+ Wise ,497, 249 ,3,2/3,Dallas-Fort Worth-Arlington,Fort Worth-Arlington MD,Metro,Large Fringe Metro,Large Fringe Metro,Non-Border,Non-Border
+ Wood ,499, 250 ,4,4/5N,--,--,Non-Metro,Noncore,Non-core,Non-Border,Non-Border
+ Yoakum ,501, 251 ,1,1,--,--,Non-Metro,Noncore,Non-core,Non-Border,Non-Border
+ Young ,503, 252 ,2,2/3,--,--,Non-Metro,Noncore,Non-core,Non-Border,Non-Border
+ Zapata ,505, 253 ,11,11,--,--,Non-Metro,Noncore,Micropolitan,Border,Border
+ Zavala ,507, 254 ,8,8,--,--,Non-Metro,Noncore,Non-core,Border,Non-Border
+Back to CHS Useful Information,,,,,,,,,,,
+End of Worksheet,,,,,,,,,,,

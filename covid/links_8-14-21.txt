@@ -1,0 +1,157 @@
+﻿The Karikó (Pfizer/BioNTech) mRNA vaccine and Moderna mRNA vaccine looked at least to me like they might as well be equal in every way until a few days ago, when [1] (not yet peer-reviewed) looked at data, and combined with [2], it seems to suggest that your protection gamble against infection from Delta is iffy after 3 months and very low after 6 months after the vaccine. THAT SAID, there is every reason to believe your protection against hospitalization gamble still remains very high after 3 months.
+
+And we can't tell yet whether the Moderna mRNA vaccine just has, say, twice the "half-life" of the Pfizer/BioNTech vaccine, or if their limits as t goes to infinity are actually different, you know what I mean.
+
+And maybe an immunologist can tell me if I'm right or wrong about this, but it seems to me that theory would predict that on a longer time scale you will still be protected against hospitalization but not against infection, since the memory T and B cells march into battle as the virus begins to replicate in significant numbers, they begin to drum up IgM and IgG antibodies to fight the usual war but it's often not so bad, and you often don't even realize that you were infected, but for some portion of that time you might be contagious.
+
+On the other hand, numbers so far seem to indicate that vaccine ineffectiveness rates against hospitalization (meaning one minus effectivenss rate) have been approximately the square of the effectiveness rate against infection
+
+(so when you're 90% protected against infection, you're 99% protected against hospitalization, but when you're 20% protected against infection, you're only 36% protected against hospitalization).
+
+Likely more time will be required to tell which of these vastly different hypotheses more closely resembles the truth.
+
+- - - - -
+
+I crunched some numbers below.
+
+In short, using an estimate [3] of infection rate that was published last year, the infection hospitalization rate seems to have doubled, which is puzzling, while the infection fatality rate was cut roughly in half, which is very good news.
+
+I would be very skeptical that the infection hospitalization rate has actually doubled; I would hazard that what is really going on is that *there is a very high rate of asymptomatic transmission*, especially asymptomatic case to asymptomatic case, of all three of the following types: vax.->vax., vax.->unvax., unvax.->vax., among the cohort of Americans who did not contract covid earlier, as well as some measure of transmission involving those with imperfect but "good enough" natural immunity. At the same time, I bet that many job positions that would have required weekly screening for covid and events that would have required one to get a test do not anymore (or at least did not in July), and so one of the factors used by the estimate, namely, case rate, has become very significantly more undercounted than it was before. The other factor, test positivity rate, is hypothesized (and evidenced) to go up inversely proportionally in a situation like this, making for a good estimate in either case. But if there is very high vax.->vax. transmission, for example (and to a lesser extent, if there is a lot of the other two kinds), and nearly all these people don't get sick and don't get tested, then the test positivity rate won't be able to do the job it used to do estimating this quantity.
+
+It seems likely to me that the prevalence of covid in the population is being undercounted by a factor of about 4 in comparison with a year ago or a half a year ago. In this case, it would be true that the infection fatality rate has actually been reduced *by a factor of about 8* since six months ago or a year ago. This would be due to a combination of four factors: vaccination, imperfect natural immunity, increased social activity among the younger crowd, and the sad truth that so many of the most vulnerable among us have already perished to the virus.
+
+If this is really the case, then a staggering 20% of the population of Texas and Florida (this of course includes jetsetters to and fro) have been infected with covid over the course of the past month and a half.
+
+But of course, there are many different conclusions one could draw from the data. For example, one may put forth the hypothesis that the Delta variant is much more likely to put you in the hospital and much less likely to kill you, although this would seem bizarre to me.
+
+If there were systematic random testing, we would be able to distinguish between these hypotheses.
+
+Given that there isn't in the US, and I don't know if there is anywhere, let me use Massachusetts data on breakthrough cases [4] to try to distinguish between the situations:
+
+Week ending 8/7, Mass. 2242 breakthrough cases, 50 breakthrough hospitalizations, 6 breakthrough deaths, out of 6800 cases, (.6/100000/day) * (7.8mil. pop * 7 days) = ~300 hospitalizations (death data has different lag in different datasets so I won't use it here)
+
+So about 1/6 of the Massachusetts hospitalizations are breakthrough right now, while 2/3 of the population is vaccinated [5]. Thus, the hospitalization rate (per pop.) among the vaccinated is 4 times lower than that in the whole population; thus, since 5/6 hospitalized are not breakthrough and 1/3 of the population is unvaccinated, the hospitalization rate (per pop.) among the unvaccinated is 2.5 times the rate in the whole population; put another way, *the hospitalization rate per pop. among the unvaccinated is 10 times higher than among the vaccinated*. It would be a better comparison if we were able to compare groups of equal age, and for obvious reasons, I think we would see that the hospitalization rate ratio is actually significantly greater than 10.
+
+- - - - -
+
+
+
+US Data: situation as of yesterday, Friday, August 13, 2021.
+
+Hospitalizations/day per 100,000 pop.:
+peak rate, January 10, 2021:
+	20 among age 70+; 5 for all ages
+Now	 7 among age 70+; 3 for all ages
+Sources: [6][7]
+
+Deaths/day total:
+peak number, January 13, 2021:
+	3600
+Now	540
+I do not think there is a lag in death reporting, but there may be, as we talked about last year when some researchers came out with a paper after failing to realize this.
+Sources: [8][9]
+
+The test positivity rate right now is 11%, so it's as high as it was during the peak in December and January. The early April 2020 peak was twice as high, but there were hardly any tests available then. [10]
+
+Also note that right now, Florida and Texas together account for 20,000 and 14,000 of the nation's 130,000 cases/day. With populations of 29 million and 22 million, respectively, they currently constitute an outsize 50% bonus contribution per population to the total number of cases. Texas' positivity rate has been almost 20%, and whereas Florida stopped reporting positivity rates in the second week of June, it would stand to reason that its is similar.
+
+So if you're outside Florida and Texas, (look your state up at [10] but) your state's positivity rate is likely lower than 11%. For example, Massachusetts' is under 3%, and Pennsylvania's is under 7%.
+
+A paper last year argued that the geometric mean between the active case rate and the positivity rate is the best proxy for the true rate of covid infection in the population [3]. The median duration with which covid will show up on a virus-targeted PCR test is 3 weeks, so let's use that as a mean (as far as being significantly infectious, [11] seems to estimate 12 days), and estimate the true rate of covid infection in the US population right now.
+
+Over the course of the last three weeks, there have been 78000*7+106000*7+129000*7 = 2,191,000 reported cases. This is 0.67% of the population. The geometric mean is the square root of the product:
+√(.67%*11%)=2.7%, so likely right now about 1 in 37 Americans is infected with covid.
+
+Weekly average death rates tend to track with what the weekly average case rates were two weeks prior (technically, 13 days [12]), and from what we've seen so far today, it would seem that weekly average hospitalization rates tend to track with what the weekly average case rates were one and a half weeks prior.
+
+Note A: Over the course of the past year and a half, many Americans who were the most susceptible to covid (at least 80 years old and coming in contact with many other people) have sadly passed away, and many others have acquired a measure of natural immunity from experiencing the ordeal. So in order to realistically try to look at the three variables estimated infection rate, hospitalization rate, and death rate, in four different phases April 2020, July/Aug 2020, Dec/Jan 2020–2021, and now, and try and infer anything about vaccines from it, this must be taken into consideration. The greatest impact from this will have occurred during the third of these four waves, too, making it yet harder to determine what part of the difference is attributable to vaccines.
+
+Data coming from Israel a couple weeks ago suggest that the effectiveness ("effectiveness" means rate against *infection*, not hospitalization or death, in the *real-world situation*, not the trial; "efficacy" is used to talk about the trial) against the Delta variant of the mRNA vaccine that Katalin Karikó developed at BioNTech, distributed by Pfizer, starts very high and wanes very significantly over the course of each of the six months after the moment two weeks after a second dose is administered. The vaccination timeline in Israel was of course to prioritize those of at least 80 years of age or those of at least 70 years of age more and more the further back you go, though, so it was at that time unclear what to say this vaccine's effectiveness should be estimated as as a function of age and time since vaccination. [2]
+
+About half a week ago, a study came out (not yet peer-reviewed) of the US data on the matter, and it matches the Israel data well. The confidence interval is very wide, but the effectiveness of the Pfizer/BioNTech vaccine against the Delta variant is estimated at 42% in July, whereas Moderna's is estimated at 76%; since people were vaccinated anywhere from January to July, let's ballpark those as the "three months later" effectiveness rates. [1]
+
+It is tough to say how to appropriately take Note A into consideration, but let's start trying to determine vaccines' effectiveness-against-hospitalization and effectiveness-against-death in face of the Delta variant (the current situation), two quantities that I'm sure people would be keenly interested in. It would also be more proper to do a breakdown by vaccine, considering each of the three vaccines widely distributed in the USA separately, but I'm not sure we have access to the data needed to do that. And further, we have every reason to expect that the quantities would be significantly changing functions of time, just as the effectiveness itself clearly is.
+
+US: Three wave peaks and July end 2021
+-------------------------------------------------
+Row label: Case wave peak date or July 31, 2021
+Column label: Rate being estimated
+IR means infection rate (as a percent of US population over the course of three weeks)
+IHR means infection hospitalization rate, i.e. hosp./infec.
+IFR means infection fatality rate, i.e. deaths/infections
+
+Estimated Rates
+Date	IR(3wk)	IHR	IFR
+4/10/20	1.8%	~*	0.73%
+7/19/20	1.1%	3.1%*	0.63%
+1/11/21	4.6%	2.1%	0.47%
+7/31/21	1.2%	4.2%	0.26%
+
+*August 1, 2020 hospital admission rate was the earliest found.
+
+Note: Seven-day averages are always used instead of single-day numbers, for obvious reasons. As mentioned above, the infection rate is estimated as the geometric mean of the case rate and the positivity rate, where the case rate uses the total number of new cases over three weeks. Worldometers [9] was used for the case rate and death rate; Johns Hopkins [10] was used for the percent positivity; the CDC [6][7] was used for hospitalization rates. We use the date ten days later for hospitalizations, and thirteen days later for deaths.
+
+The numbers (K means thousand; US pop. est. 328 million)
+--------------------------------------------------------
+Cases over the three weeks ending 4/10:
+(13K+26K+33K)*7=505K, so 0.154% of US population.
+21.7% average positivity rate for week ending 4/10.
+Geometric mean: √(0.154%*21.7%)=1.83%
+Deaths over the three weeks ending 4/23 (WAS peak):
+(1794+2214+2256)*7=44K, so .01337%pop.
+death rate / infection rate: .01337%/1.83%=0.73% IFR.
+
+Cases, 3wk end 7/19/20:
+(53095+63708+17607)*7=940870=.28685%pop.
+3.9% test positivity, week ending 7/19/20
+geom. mean 1.0577%
+Hospitalization rate (using August 1, earliest date avail.):
+(1.55/100K)*21=.033%pop.
+IHR = .033%/1.0577% = 3.12%
+Deaths, 3wk end 8/1/20 (WAS peak):
+(875+1047+1221)*7=22K=.0067%pop.
+.0067%/1.0577%=.63% IFR
+
+Cases, 3wk end 1/11/21:
+(187K+223K+256K)*7=4.66M=1.42%pop.
+14.9% test positivity, week ending 1/11/21
+geometric mean √(1.42%*14.9%)=4.6%
+Hosp'ns., 3wk ending 1/21/21:
+(4.86+4.71+4.26)*7 per 100K pop. = .09681% pop.
+IHR = .09681%/4.6% = 2.1%
+Deaths, 3wk end 1/24/21:
+(3372+3507+3260)*7=71K=.0216%pop.
+IFR .0216%/4.6%=.47%
+
+Cases, 3wk end 7/31/21:
+(33636+54380+82054)*7=1.19M=.363%pop.
+3.8% test positivity, week ending 7/31
+IR est. = √(.363%*3.8%) = 1.17%
+Hosp'ns., 3wk ending 8/10/21:
+(1.66+2.34+3.04)*7 per 100K pop. = .04928% pop.
+IHR = .04928%/1.17% = 4.2%
+Deaths, 3wk end 8/13/21:
+(369+494+565)*7 = 10K = .00305% pop.
+IFR est. = .00305% / 1.17% = 0.26%
+
+It is safe to assume that the Delta variant is responsible for everything that is going on now, and none of what was going on during the other three waves. It is possible that the Delta variant is simply less virulent (meaning less capable of causing death) in and of itself than the strains that came before; not sure what countries' data to look at to determine that.
+
+74% of cases tied to events in a Barnstable county, Mass. town in July were among the vaccinated [13]. 
+
+Before mass vaccination, anywhere from 1/3 to 3/4 of infections were already asymptomatic [14].
+
+[1] Comparison of mRNA vaccines during Alpha and Delta (preprint): www.medrxiv.org/content/10.1101/2021.08.06.21261707v1
+[2] Israel, waning transmission protection—Dr. John Campbell: www.youtube.com/watch?v=rAqVAiPXbJc&t=140s
+[3] Geometric mean of case rate and test positivity rate is a good estimate of infection rate (preprint): https://www.medrxiv.org/content/10.1101/2020.10.07.20208504v1.full
+[4] Massachusetts data on breakthrough cases shows up only in Tuesday reports, and regards the week ending three days prior: www.mass.gov/doc/daily-covid-19-vaccine-report-august-10-2021
+[5] Our World in Data: github.com/owid/covid-19-data/blob/master/public/data/vaccinations/us_state_vaccinations.csv
+[6] Hospitalizations: www.cdc.gov/coronavirus/2019-ncov/covid-data/covidview/index.html
+2/3 down the page
+[7] Hospitalizations: covid.cdc.gov/covid-data-tracker/#new-hospital-admissions
+[8] Deaths: covid.cdc.gov/covid-data-tracker/#trends_dailytrendsdeaths
+[9] Worldometers: www.worldometers.info/coronavirus/country/us/
+[10] Positivity rates: coronavirus.jhu.edu/testing/individual-states
+[11] Testing at scale, see Fig. 1 for 12-day infectious estimate: nature.com/articles/s41576-021-00360-w
+[12] The 13-day lag between cases and deaths: wwwnc.cdc.gov/eid/article/26/6/20-0320_article
+[13] High proportion of vaccinated among Barnstable town related outbreak: www.cdc.gov/mmwr/volumes/70/wr/mm7031e2.htm
+[14] Proportion of asymptomatic infections: acpjournals.org/doi/full/10.7326/M20-6976
