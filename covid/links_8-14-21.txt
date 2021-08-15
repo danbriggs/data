@@ -92,7 +92,7 @@ Date	IR(3wk)	IHR	IFR
 7/31/21	1.2%	2.6%#	0.26%
 
 *August 1, 2020 hospital admission rate was the earliest found.
-#An earlier version of this document said 4.2% because I thought there would be a 10-day lag in hospitalizations from cases. Since the data clearly show that there is no lag, 2.6% is a better estimate. The adjustment did change the 1/11 IHR to two significant digits; by 1/24, both case and hospitalization rates had been at a high plateau for many weeks, whereas now, we have been on an upswing from low rates to higher rates.
+#An earlier version of this document said 4.2% because I thought there would be a 10-day lag in hospitalizations from cases. Since the data clearly show that there is no lag, 2.6% is a better estimate. The adjustment did not change the 1/11 IHR to two significant digits; by 1/24, both case and hospitalization rates had been at a high plateau for many weeks, whereas now, we have been on an upswing from low rates to higher rates.
 
 Note: Seven-day averages are always used instead of single-day numbers, for obvious reasons. As mentioned above, the infection rate is estimated as the geometric mean of the case rate and the positivity rate, where the case rate uses the total number of new cases over three weeks. Worldometers [9] was used for the case rate and death rate; Johns Hopkins [10] was used for the percent positivity; the CDC [6][7] was used for hospitalization rates. We use the date thirteen days later for deaths. [12]
 
