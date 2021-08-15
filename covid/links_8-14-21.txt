@@ -4,7 +4,7 @@ And we can't tell yet whether the Moderna mRNA vaccine just has, say, twice the 
 
 And maybe an immunologist can tell me if I'm right or wrong about this, but it seems to me that theory would predict that on a longer time scale you will still be protected against hospitalization but not against infection, since the memory T and B cells march into battle as the virus begins to replicate in significant numbers, they begin to drum up IgM and IgG antibodies to fight the usual war but it's often not so bad, and you often don't even realize that you were infected, but for some portion of that time you might be contagious.
 
-On the other hand, numbers so far seem to indicate that vaccine ineffectiveness rates against hospitalization (meaning one minus effectivenss rate) have been approximately the square of the effectiveness rate against infection
+On the other hand, numbers so far seem to indicate that vaccine ineffectiveness rates against hospitalization (meaning one minus effectivenss rate) have been approximately the square of the ineffectiveness rate against infection
 
 (so when you're 90% protected against infection, you're 99% protected against hospitalization, but when you're 20% protected against infection, you're only 36% protected against hospitalization).
 
