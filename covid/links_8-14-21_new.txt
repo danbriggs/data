@@ -150,7 +150,8 @@ Before mass vaccination, anywhere from 1/3 to 3/4 of infections were already asy
 [3] Geometric mean of case rate and test positivity rate is a good estimate of infection rate (preprint): https://www.medrxiv.org/content/10.1101/2020.10.07.20208504v1.full
 [4] Massachusetts data on breakthrough cases shows up only in Tuesday reports, and regards the week ending three days prior: www.mass.gov/doc/daily-covid-19-vaccine-report-august-10-2021
 [5] Our World in Data: github.com/owid/covid-19-data/blob/master/public/data/vaccinations/us_state_vaccinations.csv
-[6] Hospitalizations: www.cdc.gov/coronavirus/2019-ncov/covid-data/covidview/index.html 2/3 down the page
+[6] Hospitalizations: www.cdc.gov/coronavirus/2019-ncov/covid-data/covidview/index.html
+2/3 down the page
 [7] Hospitalizations: covid.cdc.gov/covid-data-tracker/#new-hospital-admissions
 [8] Deaths: covid.cdc.gov/covid-data-tracker/#trends_dailytrendsdeaths
 [9] Worldometers: www.worldometers.info/coronavirus/country/us/
