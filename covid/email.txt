@@ -1,1 +1,22 @@
 This whole thing got very complicated and long, I don't want to make a thousand people feel like they should read it, so I uploaded it and am posting a link instead. The takeaway is basically I guess to be cautious not to spread the virus to those you come in contact with who are unvaccinated, especially if you have the Pfizer/BioNTech vaccine (and, it would stand to reason, the J&J vaccine; but you probably thought of that already). The only way really to do this, it seems, is either to associate with other vaccinated people and people with naturally acquired immunity as the day is long, and only do that, or just have mutually agreed completely closed-off "bubbles" with people you trust, like last year if that's what you were doing. I'll hazard a guess that there is a much higher degree of asymptomatic transmission than shows up in the reported cases if you're interpreting them using the same ratios you used last year, especially vaxxed->vaxxed where neither party even realizes they had an infection. I'll also hazard a guess that the ultimatum above sounds so much like if it came down from "on high" it just would make everything even more divisive and acrimonious than it already is, so they try not to say it.
+
+In which I do arithmetic and yammer on:
+
+
+Or if you'd rather do the arithmetic and yammering yourself:
+
+[1] Comparison of mRNA vaccines during Alpha and Delta (preprint): www.medrxiv.org/content/10.1101/2021.08.06.21261707v1
+[2] Israel, waning transmission protection—Dr. John Campbell: www.youtube.com/watch?v=rAqVAiPXbJc&t=140s
+[3] Geometric mean of case rate and test positivity rate is a good estimate of infection rate (preprint): https://www.medrxiv.org/content/10.1101/2020.10.07.20208504v1.full
+[4] Massachusetts data on breakthrough cases shows up only in Tuesday reports, and regards the week ending three days prior: www.mass.gov/doc/daily-covid-19-vaccine-report-august-10-2021
+[5] Our World in Data: github.com/owid/covid-19-data/blob/master/public/data/vaccinations/us_state_vaccinations.csv
+[6] Hospitalizations: www.cdc.gov/coronavirus/2019-ncov/covid-data/covidview/index.html
+2/3 down the page
+[7] Hospitalizations: covid.cdc.gov/covid-data-tracker/#new-hospital-admissions
+[8] Deaths: covid.cdc.gov/covid-data-tracker/#trends_dailytrendsdeaths
+[9] Worldometers: www.worldometers.info/coronavirus/country/us/
+[10] Positivity rates: coronavirus.jhu.edu/testing/individual-states
+[11] Testing at scale, see Fig. 1 for 12-day infectious estimate: nature.com/articles/s41576-021-00360-w
+[12] The 13-day lag between cases and deaths: wwwnc.cdc.gov/eid/article/26/6/20-0320_article
+[13] High proportion of vaccinated among Barnstable town related outbreak: www.cdc.gov/mmwr/volumes/70/wr/mm7031e2.htm
+[14] Proportion of asymptomatic infections: acpjournals.org/doi/full/10.7326/M20-6976
